@@ -10,7 +10,7 @@ I enjoy learning new technologies, solving programming problems, and building pr
 - 🌱 Improving my programming and problem-solving skills.
 - 💻 Practicing version control, branching, merging, and pull requests.
 - 🎯 Goal: Start my career in IT and contribute to real-world projects.
-- 📫 Connect with me through LinkedIn.
+
 
 ---
 
@@ -30,7 +30,7 @@ I enjoy learning new technologies, solving programming problems, and building pr
 **Tools**
 - Oracle SQL
 - MySQL
-- Xilinx Vivado
+
 
 ---
 
@@ -43,23 +43,11 @@ I enjoy learning new technologies, solving programming problems, and building pr
 
 **Technologies:** Verilog HDL, RISC Architecture, VLSI
 
-### 2. Python Programming Practice
-- Practicing number programs, recursion, strings, lists, matrices, and object-oriented programming.
-- Improving logical thinking through coding exercises.
-
-**Technologies:** Python
-
-### 3. AWS and Linux Practice
+### 2. AWS and Linux Practice
 - Practicing EC2 instance management, S3 bucket configuration, VPC networking, and IAM concepts.
 - Learning Linux commands, file permissions, ACLs, and shell scripting.
 
 **Technologies:** AWS, Linux, Bash
-
-### 4. Git and GitHub Practice
-- Practicing repositories, branches, commits, merging, remote repositories, and pull requests.
-- Learning collaborative development workflows.
-
-**Technologies:** Git, GitHub
 
 ---
 
@@ -83,8 +71,8 @@ Electronics and Communication Engineering (ECE)
 ## 🤝 Connect With Me
 
 - GitHub: [@sumanth0448](https://github.com/sumanth0448)
-- LinkedIn: [Add your LinkedIn profile URL here]
-- Email: [Add your professional email here]
+- LinkedIn: linkedin.com/in/sumanth-devarinti-6122b5372
+- Email: devarintisumanth@gmail.com
 
 ---
 
