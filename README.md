@@ -13,7 +13,14 @@ I enjoy learning new technologies, solving programming problems, and building pr
 
 
 ---
+## 📚 Currently Learning
 
+- Python programming and OOP
+- Linux administration and Bash scripting
+- AWS cloud fundamentals
+- Git branching and collaboration
+- SQL queries and database concepts
+---
 ## 🛠️ Technical Skills
 
 **Programming Languages**
@@ -48,16 +55,6 @@ I enjoy learning new technologies, solving programming problems, and building pr
 - Learning Linux commands, file permissions, ACLs, and shell scripting.
 
 **Technologies:** AWS, Linux, Bash
-
----
-
-## 📚 Currently Learning
-
-- Python programming and OOP
-- Linux administration and Bash scripting
-- AWS cloud fundamentals
-- Git branching and collaboration
-- SQL queries and database concepts
 
 ---
 
